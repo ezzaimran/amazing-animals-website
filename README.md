@@ -1,2 +1,2 @@
-# amazing-animals-website
+# amazinganimals.website
 This website is all about animals.
